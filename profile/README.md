@@ -76,7 +76,7 @@ Magpie's smart-contract audit process is **actively underway**. Independent secu
 | Firm | Engagement status |
 |---|---|
 | **Sec3** | Repository access granted; review underway (formal scope being finalized). |
-| **Hashlock** | Repository access accepted; review underway. |
+| **Hashlock** | Accepted collaborator; formal proposal received — engagement being finalized. |
 | **QuillAudits** | Repository access accepted; review underway. |
 | **OtterSec** | Invited to audit; awaiting response. |
 | **Neodyme** | Invited to audit; awaiting response. |
