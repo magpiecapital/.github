@@ -69,9 +69,20 @@ The fastest paths in:
 - **Governance with explicit, narrow scope.** What holders can vote on is enumerated. What stays operator-discretion is enumerated. No ambiguity by design.
 - **Anonymous founder, identified protocol.** Operator identity is private; protocol activity is fully on-chain and verifiable.
 
-## Security disclosure
+## Security & Audits
 
-See [magpie.capital/security](https://www.magpie.capital/security) for the security posture and disclosure path. For routine reports, the fastest channel is a GitHub issue tagged `security` on the relevant public repo. For sensitive disclosures, contact via the security page.
+Magpie's smart-contract audit process is **actively underway**. Independent security firms have been **engaged to review** the protocol's on-chain lending programs; **reports will be published when complete**. The protocol is **not yet audited** — please don't treat the absence of a published report as a completed review.
+
+| Firm | Engagement status |
+|---|---|
+| **Sec3** | Repository access granted; review underway (formal scope being finalized). |
+| **Hashlock** | Invited (read-only access); engagement in progress. |
+| **QuillAudits** | Invited (read-only access); engagement in progress. |
+| **OtterSec** | Invited to audit; awaiting response. |
+
+The audit-target program ([`magpie-v4`](https://github.com/magpiecapital)) is kept **private** during pre-audit review, and every engaged firm is granted **read-only** access. Completed reports will be published in [`magpiecapital/audits`](https://github.com/magpiecapital/audits).
+
+**Disclosure path:** see [magpie.capital/security](https://www.magpie.capital/security) for the security posture and reporting path. For routine reports, the fastest channel is a GitHub issue tagged `security` on the relevant public repo. For sensitive disclosures, use the security page.
 
 ## License
 
