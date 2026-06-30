@@ -2,8 +2,8 @@
   <img src="https://www.magpie.capital/icon-512.png" alt="Magpie Capital" width="128" />
   <h1>Magpie Capital</h1>
   <p>
-    <b>Collateral that can still sell itself.</b><br/>
-    Borrow SOL against your tokens — and set auto-sells on the same collateral. Liquidity, without giving up the upside.
+    <b>Solana lending protocol — liquidity without selling your bag.</b><br/>
+    Borrow SOL against your memecoins, tokenized stocks, and RWAs — and set take-profits and stops on that same collateral. Collateral that can still sell itself.
   </p>
   <p>
     Permissionless SOL lending on Solana · Memecoin and tokenized-stock collateral · On-chain credit oracle · Agent-native via x402.
