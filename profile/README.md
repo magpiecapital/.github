@@ -2,8 +2,11 @@
   <img src="https://www.magpie.capital/icon-512.png" alt="Magpie Capital" width="128" />
   <h1>Magpie Capital</h1>
   <p>
-    <b>Permissionless SOL lending on Solana.</b><br/>
-    Memecoin and tokenized-stock collateral · On-chain credit oracle · Agent-native via x402.
+    <b>Collateral that can still sell itself.</b><br/>
+    Borrow SOL against your tokens — and set auto-sells on the same collateral. Liquidity, without giving up the upside.
+  </p>
+  <p>
+    Permissionless SOL lending on Solana · Memecoin and tokenized-stock collateral · On-chain credit oracle · Agent-native via x402.
   </p>
   <p>
     <a href="https://magpie.capital"><img src="https://img.shields.io/badge/site-magpie.capital-0ea5e9?style=flat-square&logo=safari&logoColor=white" alt="site"/></a>
