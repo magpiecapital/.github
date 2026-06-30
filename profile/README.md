@@ -79,6 +79,7 @@ Magpie's smart-contract audit process is **actively underway**. Independent secu
 | **Hashlock** | Invited (read-only access); engagement in progress. |
 | **QuillAudits** | Invited (read-only access); engagement in progress. |
 | **OtterSec** | Invited to audit; awaiting response. |
+| **Neodyme** | Invited to audit; awaiting response. |
 
 The audit-target program ([`magpie-v4`](https://github.com/magpiecapital)) is kept **private** during pre-audit review, and every engaged firm is granted **read-only** access. Completed reports will be published in [`magpiecapital/audits`](https://github.com/magpiecapital/audits).
 
